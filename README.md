@@ -11,23 +11,31 @@ The code in this repository reflects my learning at different stages and is cont
   Python fundamentals such as variables, loops, conditions, and functions.
 
 - **intermediate/**  
-  Topics like file handling, exception handling, and modular programming.
+  Topics like basic Data Structures(List,Tuples,Dictionary etc.,)file handling, exception handling.
 
-- **tkinter-projects/**  
-  Small GUI-based projects built using Python's Tkinter library.
+- **python-projects/**  
+  Small practical projects built to apply Python concepts.
+  
+  - **tkinter-calculator/**  
+    A simple GUI-based calculator built using Python's Tkinter library.
+  
+  - **password-checker/**  
+    A file-handling based project that validates user credentials using stored data.
 
-- **notes/**  
-  Personal learning notes and observations.
-
-## Highlight Project
+## Highlight Projects
 
 - **Tkinter Calculator**  
   A simple calculator built to understand GUI programming and event handling in Python.
+
+- **Password Checker**  
+  A project created to practice file handling, loops, conditionals, and basic validation logic.
 
 ## Purpose
 
 - Strengthen Python fundamentals  
 - Practice writing clean and readable code  
+- Apply concepts through small practical projects  
 - Build a foundation for open-source contributions  
 
 This repository is part of my continuous learning journey.
+
